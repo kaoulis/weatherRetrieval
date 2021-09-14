@@ -1,0 +1,4 @@
+mysql-connector-python==8.0.23
+pandas==1.2.1
+Flask==1.1.2
+requests==2.25.1
